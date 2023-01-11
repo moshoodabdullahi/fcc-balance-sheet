@@ -20,7 +20,7 @@ Additional description about the project and its features.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- GitHub Action 
+- GitHub Action
 
 ## Live Demo
 
