@@ -9,16 +9,18 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5 elements
-  - `h1`,
-  - `header`,
-  - `div`, `img`.
-- CSS elements
-  - `body`,
-  - `header`, `.gallery`.
+- `h1`, `div`,
+- `select`, `span`, `main`,
+- `section`, `table`, `caption`, `thead`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Positioning `absolute`,
+  - CSS Background for page aesthetic using `background-color`, `background-image`.
+  - `h1`, `section`, `table`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- Github Action
+- GitHub Action
 
 ## Live Demo
 
