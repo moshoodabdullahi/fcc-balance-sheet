@@ -2,7 +2,6 @@ span[class~="sr-only"] {
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important;
   clip-path: inset(50%) !important;
-  clip-path: inset(50%) !important;
   height: 1px !important;
   width: 1px !important;
   position: absolute !important;
@@ -106,6 +105,12 @@ tr[class="total"] th {
   padding: 0.5rem 0 0.25rem 0.5rem;
 }
 
+tr.data td {
+  vertical-align: top;
+  padding: 0.3rem 0.25rem 0;
+  text-align: right;
+}
+
 tr.total td {
   text-align: right;
   padding: 0 0.25rem;
@@ -139,10 +144,4 @@ tr.data th .description {
   font-style: italic;
   padding: 1rem 0 0.75rem;
   margin-right: -13.5rem;
-}
-
-tr.data td {
-  vertical-align: top;
-  padding: 0.3rem 0.25rem 0;
-  text-align: right;
 }
