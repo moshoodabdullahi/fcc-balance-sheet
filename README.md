@@ -27,7 +27,7 @@ Balance sheet project teache on how to change the style of an element when you h
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-balance-sheet.git
 ```
 
 - Install Dependencies
