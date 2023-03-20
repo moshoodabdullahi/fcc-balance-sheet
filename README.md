@@ -1,6 +1,6 @@
 # FCC BALANCE-SHEET
 
-> A basic HTML and CSS project to build balance sheet using pseudo selectors. 
+> A basic HTML and CSS project to build balance sheet using pseudo selectors.
 
 ![screenshot](fcc-balance-sheet.netlify.app_.png)
 
