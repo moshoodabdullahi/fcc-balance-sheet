@@ -1,22 +1,18 @@
 # FCC BALANCE-SHEET
 
-> A basic HTML and CSS project to demostrate styling.
+> A basic HTML and CSS project to build balance sheet using pseudo selectors. 
 
 ![screenshot](fcc-balance-sheet.netlify.app_.png)
 
-Additional description about the project and its features.
+Balance sheet project teache on how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
 
 ## Built With
 
 - HTML5 elements
-- `h1`, `div`,
-- `select`, `span`, `main`,
-- `section`, `table`, `caption`, `thead`.
+- `h1`, `div`, `main`, `section`, `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
-  - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`, `background-image`.
-  - `h1`, `section`, `table`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
