@@ -1,15 +1,15 @@
-# FCC BALANCE-SHEET
+# FCC BALANCE SHEET
 
 > A basic HTML and CSS project to build balance sheet using pseudo selectors.
 
 ![screenshot](fcc-balance-sheet.netlify.app_.png)
 
-Balance sheet project teache on how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
+Balance sheet project teaches on how to change the style of an element when you hover over it, It will trigger other events on your webpage.
 
 ## Built With
 
 - HTML5 elements
-- `h1`, `div`, `main`, `section`, `caption`.
+- `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Background for page aesthetic using `background-color`, `background-image`.
@@ -70,7 +70,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
