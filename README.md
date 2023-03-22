@@ -1,15 +1,15 @@
 # FCC BALANCE SHEET
 
-> A basic HTML and CSS project to build balance sheet using pseudo selectors.
+> A balance sheet using pseudo selectors where style of an element are being changed when an event are triggered on the element.
 
 ![screenshot](fcc-balance-sheet.netlify.app_.png)
 
-This PR emphasis on how to change the style of an element when you hover over it, It will trigger other events on your webpage.
+# This PR adds a balance sheet using pseudo selectors where style of an element are being changed when an event are triggered on the element.
 
 ## Built With
 
 - HTML5 elements
-- `caption`.
+  - `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Positioning `absolute`,
