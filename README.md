@@ -9,7 +9,7 @@ This PR emphasis on how to change the style of an element when you hover over it
 ## Built With
 
 - HTML5 elements
- - `caption`.
+- `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Positioning `absolute`,
