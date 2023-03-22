@@ -12,6 +12,7 @@ Balance sheet project teaches on how to change the style of an element when you 
 - `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
+  - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`, `background-image`.
 - Linters
   - [Prettier](https://prettier.io/),
