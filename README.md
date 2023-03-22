@@ -4,12 +4,12 @@
 
 ![screenshot](fcc-balance-sheet.netlify.app_.png)
 
-Balance sheet project teaches on how to change the style of an element when you hover over it, It will trigger other events on your webpage.
+This PR emphasis on how to change the style of an element when you hover over it, It will trigger other events on your webpage.
 
 ## Built With
 
 - HTML5 elements
-- `caption`.
+ - `caption`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Positioning `absolute`,
