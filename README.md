@@ -8,9 +8,9 @@
 
 ## Built With
 
-- HTML5 elements
-  - `caption`.
+- HTML5 table element such as `th`, `tb`, `tr`, `caption`, and so on.
 - CSS properties
+  - CSS pseudo-selector such as `:last-of-type`.
   - CSS Variables for reusable CSS values,
   - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`, `background-image`.
